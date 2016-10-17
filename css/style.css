@@ -1140,7 +1140,6 @@ ul.styled-list.list-star li:before {
 }
 .testimonials {
   padding: 100px 0;
-  background-image: url(../images/testimonials.png);
   background-size: cover;
   background-attachment: fixed;
   background-color: #000;
